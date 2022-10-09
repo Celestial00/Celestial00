@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sheerazalee223@gmail.com**
 
-- ⚡ Fun fact **I may or may not be a comedian**
+- ⚡ Fun fact **I may or may not be a crack a Great joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
