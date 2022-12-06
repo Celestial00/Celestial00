@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 👨‍💻 All of my projects are available at [celestial009.blogspot.com](celestial009.blogspot.com)
+- 👨‍💻 All of my projects are available at https://celestial00.github.io/Updated-Portfolio/
 
 - 💬 Ask me about **Web Development , Java , React**
 
