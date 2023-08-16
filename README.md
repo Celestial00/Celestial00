@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celestial00" alt="celestial00" /></a> </p>
 
-- 🔭 I’m currently working on **AI Shopping store**
+- 🔭 I’m currently working on **Blogging Website**
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **MERN and Flutter**
 
 - 👨‍💻 All of my projects are available at https://celestial00.github.io/Updated-Portfolio/
 
-- 💬 Ask me about **Web Development , Java , React**
+- 💬 Ask me about **Web Development ,Express ,React, mongodb, Nodejs, flutter**
 
 - 📫 How to reach me **sheerazalee223@gmail.com**
 
