@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **MERN and Flutter**
 
-- 👨‍💻 All of my projects are available at https://celestial00.github.io/Updated-Portfolio/
-
+- 👨‍💻 All of my projects are available at "in progress"
+  
 - 💬 Ask me about **Web Development ,Express ,React, mongodb, Nodejs, flutter**
 
 - 📫 How to reach me **sheerazalee223@gmail.com**
